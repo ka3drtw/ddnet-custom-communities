@@ -25,7 +25,8 @@ Sorted by order of addition. Maintainers are responsible for updating the data h
 * [cazar](https://cazar.xyz) maintained by [@cazar](https://github.com/cazar-clan)
 * [Pointer's Labs](https://matrix.to/#/#pointerslabs-space:matrix.org) maintained by [@Pointer31](https://github.com/pointer31)
 * [Eternal Gores](https://discord.gg/vm6vGgqRvr) maintained by [@snezhnyyy](https://github.com/snezhnyyy)
-
+* [MMOTee](https://discord.gg/ZwdPXkDXx9) maintained by [@Goodb1](https://github.com/Goodb1)
+  
 ## Requirements
 
 * You have atleast 3 game servers

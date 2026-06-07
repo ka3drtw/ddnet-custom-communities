@@ -477,6 +477,33 @@
 			"contact_urls": [
 				"https://eternal-gores.com/discord"
 			]
+		},
+		{
+			"id": "mmotee",
+			"name": "MMOTee",
+			"has_finishes": false,
+			"icon": {
+				"sha256": "6c4163dc820710df166dc30728fad3409069257839efeae57c5b323cf0d5ee40",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/mmotee.png",
+				"servers": [
+					{
+						"name": "EUR",
+						"flagId": 905,
+						"servers": {
+							"MMOTee": [
+								"192.124.189.112:8310"
+							],
+							"DDrace": [
+								"89.46.1.18:8303",
+								"89.46.1.18:8304"
+							]
+						}
+					}
+				]
+			},
+			"contact_urls": [
+				"https://discord.gg/JE8wPRUwFC"
+			]
 		}
 	]
 }
